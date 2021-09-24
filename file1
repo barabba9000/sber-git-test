@@ -1,3 +1,4 @@
 user1 clear file1
 file1 change user2
 add new feature
++from user1 for rebase
